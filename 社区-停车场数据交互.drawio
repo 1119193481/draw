@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:27:32.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1gQLpgqqv_bZZvTpz-VE" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:29:47.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tz2ZLvAEoExih0TNAa4V" version="16.2.2" type="github">
   <diagram id="dkBk7fBYtChry3igKEyx" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,13 +143,16 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-ATXAiqCZRwMQbicWxe-74" value="操作" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="560" y="640" width="140" height="90" as="geometry" />
+          <mxGeometry x="560" y="640" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="d-ATXAiqCZRwMQbicWxe-75" value="白名单新增/修改/删除" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=#000000;" parent="d-ATXAiqCZRwMQbicWxe-74" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d-ATXAiqCZRwMQbicWxe-76" value="停车场新增/修改" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=#000000;" parent="d-ATXAiqCZRwMQbicWxe-74" vertex="1">
+        <mxCell id="d-ATXAiqCZRwMQbicWxe-76" value="停车场新增/修改" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=#000000;" parent="d-ATXAiqCZRwMQbicWxe-74" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BNzcDI2xxSdKJg1rB0T1-1" value="修改社区接口URL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="d-ATXAiqCZRwMQbicWxe-74">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-ATXAiqCZRwMQbicWxe-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="d-ATXAiqCZRwMQbicWxe-71" target="d-ATXAiqCZRwMQbicWxe-37" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -172,6 +175,14 @@
             <Array as="points">
               <mxPoint x="760" y="715" />
               <mxPoint x="760" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BNzcDI2xxSdKJg1rB0T1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNzcDI2xxSdKJg1rB0T1-1" target="d-ATXAiqCZRwMQbicWxe-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="745" />
+              <mxPoint x="780" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
