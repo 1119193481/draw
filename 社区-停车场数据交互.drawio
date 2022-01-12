@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T00:57:12.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BCMBFJ9PsfSed6ODHuSc" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T01:07:16.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pCuOf6vOL8w-7r98wbLh" version="16.2.4" type="github">
   <diagram id="dkBk7fBYtChry3igKEyx" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,13 +41,13 @@
             <mxRectangle x="560" y="360" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d-ATXAiqCZRwMQbicWxe-12" value="停车场修改" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
+        <mxCell id="d-ATXAiqCZRwMQbicWxe-12" value="停车场修改名称" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-ATXAiqCZRwMQbicWxe-13" value="车辆白名单新增/修改/删除" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
           <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d-ATXAiqCZRwMQbicWxe-14" value="修改社区接口url" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
+        <mxCell id="d-ATXAiqCZRwMQbicWxe-14" value="关联地址（社区/校园）" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
           <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-ATXAiqCZRwMQbicWxe-38" value="同步车辆白名单数据" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="d-ATXAiqCZRwMQbicWxe-11" vertex="1">
